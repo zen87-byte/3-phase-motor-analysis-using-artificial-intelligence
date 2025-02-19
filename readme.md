@@ -1,7 +1,7 @@
 # Anomali Detection and Remaining Useful Life Predict Motor using Deep Learning
 <description>
 
-## How to init new branch
+## How to create new branch
 1. Create new branch for editing from branch `main` using: `git checkout -b feat/<nama-branch>`
 3. Install all of the library using pip install <library>
 4. Make any changes to the branch and commit using:
